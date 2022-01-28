@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\bin\Debug\netcoreapp3.1\AbstraindoUmJogo.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\bin\Debug\netcoreapp3.1\AbstraindoUmJogo.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\bin\Debug\netcoreapp3.1\AbstraindoUmJogo.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\bin\Debug\netcoreapp3.1\AbstraindoUmJogo.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\bin\Debug\netcoreapp3.1\AbstraindoUmJogo.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\bin\Debug\netcoreapp3.1\AbstraindoUmJogo.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\AbstraindoUmJogo\obj\Debug\netcoreapp3.1\AbstraindoUmJogo.genruntimeconfig.cache
